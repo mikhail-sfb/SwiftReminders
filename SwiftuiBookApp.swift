@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// Grid, path, charts animations
+
 @main
 struct SwiftuiBookApp: App {
     var body: some Scene {
@@ -15,3 +17,4 @@ struct SwiftuiBookApp: App {
         }
     }
 }
+ 
